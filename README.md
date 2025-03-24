@@ -13,8 +13,8 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 Решение 1
-![Снимок 199](https://github.com/user-attachments/assets/355d8e7c-8fc6-4b57-bb98-be42ef576bda)
 
+![Снимок 199](https://github.com/user-attachments/assets/355d8e7c-8fc6-4b57-bb98-be42ef576bda)
 ![Снимок 200](https://github.com/user-attachments/assets/c531e75c-8965-4807-a81b-58131f508bb3)
 ![Снимок 198](https://github.com/user-attachments/assets/4a225c6b-e619-473b-8aed-52d35ff620bf)
 
@@ -31,7 +31,7 @@
 скриншоты с успешно собранными сборками.
 
 Решение 2
-
+Содержимое gitlab-ci.yml
  ```
 stages:
   - test
@@ -59,3 +59,7 @@ build:
   script:
    - docker build . --tag gitlab-ci:latest
  ```
+Скриншоты:
+
+![Снимок 201](https://github.com/user-attachments/assets/b6cfe613-f3c6-46ae-98b8-b12e0ee5a3ad)
+![Снимок 202](https://github.com/user-attachments/assets/943ca531-fb46-407e-bd49-0dc11ffdf1a9)
