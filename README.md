@@ -32,8 +32,7 @@
 
 Решение 2
 
-Содержимое gitlab-ci.yml
-'''
+ ```
 stages:
   - test
   - static-analysis
@@ -59,5 +58,4 @@ build:
   image: docker:latest
   script:
    - docker build . --tag gitlab-ci:latest
-'''
-
+ ```
