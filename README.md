@@ -14,10 +14,11 @@
 
 Решение 1
 
-![Снимок 203](https://github.com/user-attachments/assets/2a2e127a-26bd-4af7-b405-7dc4dc00e26e)
+
 ![Снимок 199](https://github.com/user-attachments/assets/355d8e7c-8fc6-4b57-bb98-be42ef576bda)
 ![Снимок 200](https://github.com/user-attachments/assets/c531e75c-8965-4807-a81b-58131f508bb3)
-![Снимок 198](https://github.com/user-attachments/assets/4a225c6b-e619-473b-8aed-52d35ff620bf)
+![Снимок 203](https://github.com/user-attachments/assets/d888eb83-bfd9-43e2-ab4b-e1fcb21c38e9)
+
 
 ### Задание 2
 Что нужно сделать:
